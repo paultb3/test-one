@@ -1,0 +1,43 @@
+html, body{
+    padding: 0 ;
+    margin: 0;
+}
+
+body{
+    background-color: rgba(0,0,0,.9);
+}
+.principal{
+    background-color: white;
+    width: 400px;
+    margin: 30px auto;
+    padding: 5px;
+    border-radius: 8px;
+}
+.principal h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+.fotos{
+    width: 70%;
+    margin: 0px auto;
+}
+
+.profile{
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+}
+
+.likes{
+    padding: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.votos{
+    margin: 0px auto;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
